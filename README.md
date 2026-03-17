@@ -149,25 +149,57 @@ Project screenshots are stored in the `READMEmd/` folder.
 
 ### Sample Output Images
 
+#### Dependency Installation
+
+![Dependency Installation](READMEmd/Dependies%20installation.png)
+
+![Groq Dependency Setup](READMEmd/dependies%20for%20groq.png)
+
 #### Groq Example
 
-![Groq Output](READMEmd/Screenshot%202026-03-17%20090045.png)
+![Groq Output 1](READMEmd/groq-api.png)
+
+![Groq Output 2](READMEmd/groq-ap1-2.png)
+
+![Groq Output 3](READMEmd/groq%20api3.png)
+
+![Groq Output 4](READMEmd/groq002.png)
+
+![Groq Output 5](READMEmd/groq003.png)
 
 #### Gemini Example
 
-![Gemini Output](READMEmd/Screenshot%202026-03-17%20090158.png)
+![Gemini Output](READMEmd/gemini%20ai.png)
+
+![Gemini Output 2](READMEmd/gemoni0001.png)
 
 #### Cohere Example
 
-![Cohere Output](READMEmd/Screenshot%202026-03-17%20090342.png)
+![Cohere Output](READMEmd/cohere%20ai1.png)
+
+![Cohere Output 2](READMEmd/cohere-vilation%20q1.png)
 
 #### Hugging Face Example
 
-![Hugging Face Output](READMEmd/Screenshot%202026-03-17%20090447.png)
+![Hugging Face Output 1](READMEmd/Huggingface%20api.png)
+
+![Hugging Face Output 2](READMEmd/huggingface2.png)
+
+![Hugging Face Output 3](READMEmd/huggingface3.png)
 
 #### Ollama Example
 
-![Ollama Output](READMEmd/Screenshot%202026-03-17%20090836.png)
+![Ollama Output](READMEmd/ollama.png)
+
+#### Multi API Query Example
+
+![Multi API Query Output 1](READMEmd/multi01%20%281%29.png)
+
+![Multi API Query Output 2](READMEmd/multi01%20%282%29.png)
+
+![Multi API Query Output 3](READMEmd/multi01%20%283%29.png)
+
+![Multi API Query Output 4](READMEmd/multi01%20%284%29.png)
 
 ## Submission Notes
 
