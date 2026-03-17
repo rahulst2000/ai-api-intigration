@@ -1,18 +1,14 @@
-# Generative AI API Integration
+# Screenshots And Support Files
 
-This folder contains screenshots and supporting documentation for the project.
+This folder stores supporting project images and screenshot evidence for terminal-based execution.
 
-Main setup and run instructions are available in the repository root `README.md`.
+For complete setup instructions, dependency installation, environment variables, and run commands, see the repository root `README.md`.
 
-## Screenshots
+## Included Screenshot Types
 
-The screenshots in this folder show sample terminal runs for the provider scripts.
-
-Included examples cover:
-
-- Groq
-- Gemini
-- Cohere
-- Hugging Face
-- Ollama
-
+- Groq output
+- Gemini output
+- Cohere output
+- Hugging Face output
+- Ollama output
+- Additional project run evidence
