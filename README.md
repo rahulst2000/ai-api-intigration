@@ -147,10 +147,31 @@ Notes:
 
 Project screenshots are stored in the `READMEmd/` folder.
 
+### Sample Output Images
+
+#### Groq Example
+
+![Groq Output](READMEmd/Screenshot%202026-03-17%20090045.png)
+
+#### Gemini Example
+
+![Gemini Output](READMEmd/Screenshot%202026-03-17%20090158.png)
+
+#### Cohere Example
+
+![Cohere Output](READMEmd/Screenshot%202026-03-17%20090342.png)
+
+#### Hugging Face Example
+
+![Hugging Face Output](READMEmd/Screenshot%202026-03-17%20090447.png)
+
+#### Ollama Example
+
+![Ollama Output](READMEmd/Screenshot%202026-03-17%20090836.png)
+
 ## Submission Notes
 
 This repository is configured to keep secrets out of version control:
 
 - `.env` is ignored
 - `.env.example` is shared for setup reference
-
